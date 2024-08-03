@@ -43,5 +43,20 @@ SIMULATION RESULT:</p>
 ![4](https://github.com/user-attachments/assets/59dd7fe5-5fe3-412d-8003-2f42498d91dc)
 ![5](https://github.com/user-attachments/assets/879676a1-4ee3-4ba1-984f-50e459eab02c)
 ![6](https://github.com/user-attachments/assets/47951d54-95e7-4152-bc8e-d9e80e7c413f)
+</p>
+**TO RUN THE SYSENTHSIS**</p>
+COMMANDS:</p>
+1.genus</p>
+2.source of the file</p>
+3.set_db source</p>
+4.read_hdl filename.v</p>
+5.elab</p>
+6.syn of opt,generic,map</p>
+7.write_hdl > filename.netlist.v</p>
+8.report_(power,area,gates) >(power,area,gates).rpt</p>
+9.report_timing -unconstrained > time.rpt</p>
+10.gui_show</p>
+![mainmini](https://github.com/user-attachments/assets/29593131-6676-4154-a5b4-8c7a9c2b209f)
+
 
 
