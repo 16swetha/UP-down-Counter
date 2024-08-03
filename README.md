@@ -56,7 +56,13 @@ COMMANDS:</p>
 8.report_(power,area,gates) >(power,area,gates).rpt</p>
 9.report_timing -unconstrained > time.rpt</p>
 10.gui_show</p>
-![mainmini](https://github.com/user-attachments/assets/29593131-6676-4154-a5b4-8c7a9c2b209f)
 
-
-
+![mainmini](https://github.com/user-attachments/assets/29593131-6676-4154-a5b4-8c7a9c2b209f)</p>
+**AREA**</p>
+![area](https://github.com/user-attachments/assets/a0a3b4fe-49e5-4950-962f-5f823c9aa2aa)</p>
+**TIME**</p>
+![time](https://github.com/user-attachments/assets/18570ed6-af75-4a20-af92-7ccaf5d4aeb6)</p>
+**POWER**</p>
+![power](https://github.com/user-attachments/assets/4c9ff86e-d7c0-4694-bb3a-0f45a2891ff7)</p>
+**GATES**
+![gates](https://github.com/user-attachments/assets/178a1dcf-5a2e-44b6-8ce6-5bd076b45142)</p>
